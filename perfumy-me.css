@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: black;
+    height: 100px;
+    margin: 3px;
+}
+.Perfumy{
+    color: white;
+    display: inline;
+    padding-left: 30px;
+    
+}
+.li{
+    color: red;
+    display: inline;
+    margin: 10px;
+    cursor: pointer;
+}
+.li:hover{
+    color: white;
+}
+.ul{
+    display: inline-block;
+    margin-left: 60%;
+    padding-top: 10px;
+}
+.search{
+    border-color: gray;
+    border-style: solid;
+    margin: 60px;
+    margin-top: 60px;  
+    height: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.p{
+    color: gray;
+    padding-left: 10px;
+    margin: 5px;
+
+}
+.bottel{
+    width: 300px;
+    height: 350px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    position: relative;
+    left: 300px;
+}
+.r{
+    padding: 10px;
+    
+}
+.r:hover{
+    background-color: black;
+    color: white;
+}
+img{
+    padding: 10px;
+    padding-left: 60px;
+}
+.bottel1{
+    width: 300px;
+    height: 350px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    position: relative;
+    left: 300px;
+}
+
+.bottel2{
+    width: 300px;
+    height: 350px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    position: relative;
+    left: 300px;
+}
+.about{
+    text-align: center;
+    margin-top: 40px;
+}
+.pg{
+    padding: 30px;
+}
+.adress{
+    background-color: black;
+    color: white;
+    height: 250px;
+    margin: 3px;
+}
+.co,.ci{
+    text-align: center;
+    margin: 5px;
+}
+.ci{
+    padding-top: 30px;
+}
+.pgr{
+    color: gray;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px
+    
+}
